@@ -191,7 +191,7 @@ Use Chart.js CDN. Style with the user's brand if they have a design skill, other
 
 ## Anti-Patterns (Things NOT to do)
 
-- Don't recommend financial products (funds, insurance, stocks).
+- Don't recommend financial products (funds, insurance, stocks). You're not selling anything.
 - Don't moralize about spending. "奶茶少喝点" is not financial advice.
 - Don't give generic advice that could apply to anyone. Every output must reference their specific data.
 - Don't force all 4 anchor questions if the conversation naturally covers them — be adaptive.
